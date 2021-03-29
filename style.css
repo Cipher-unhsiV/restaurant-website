@@ -15,7 +15,7 @@ nav {
 	width: 100%; 
 }
 label.logo {
-	color: blue;
+	color: green;
 	font-size: 35px;
 	line-height: 80px;
 	padding: 0 100px;
@@ -31,7 +31,7 @@ nav ul li {
 	margin: 0 5px;
 }
 nav ul li a {
-	color: blue;
+	color: red;
 	font-size: 17px;
 	text-transform: uppercase;
 }
